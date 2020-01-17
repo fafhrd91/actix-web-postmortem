@@ -10,6 +10,6 @@ It’s been three years since I started actix project (time flies). I learnt a l
 
 I am done with open source. 
 
-P.S. I moved actix-net and actix-web project to my personal github account. I will make decision during next couple days what to do. I don’t want to see the project becomes ghost of what it was. Maintainers must understand how everything work, but don’t anyone who does and those who could are busy with other projects. At the moment I am planing to make repos private and then delete them, unless others suggest better ideas.
+P.S. I moved actix-net and actix-web project to my personal github account. I will make decision during next couple days what to do. I don’t want to see the project becomes ghost of what it was. Maintainers must understand how everything work, but don’t anyone who does and those who could are busy with other projects. At the moment I am planing to make repos private and then delete them (will remove benchmarks as well), unless others suggest better ideas.
 
 Everything has to come to the end. It was fun trip but now is time to move on. Life should be fun.
