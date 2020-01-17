@@ -1,4 +1,4 @@
-# Actix prject postmortem
+# Actix project postmortem
 
 Another day, another "unsafe shitstorm”, I guess I get used to it.
 
